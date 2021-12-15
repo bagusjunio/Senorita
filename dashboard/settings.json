@@ -1,0 +1,14 @@
+{
+    "website" : {
+      "support": "https://discord.gg/RMHZhqnJeK",
+      "domain": "https://www.senoritamusic.top"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://www.senoritamusic.top/callback",
+        "clientID": "903047974131736620",
+        "secret": "xXrEmAhjW3XzS5h3m-H3nIah37j-snDH"
+    }
+  }
