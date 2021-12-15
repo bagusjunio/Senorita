@@ -60,10 +60,10 @@
 
 You can always Support me by inviting one of my **own Discord Bots**
 
-[SENORITA](https://media.discordapp.net/attachments/911696260472393768/920764549693583431/senorita1.png)](https://discord.com/oauth2/authorize?client_id=903047974131736620&permissions=70347841&scope=bot)
-[SENORITA 2](https://media.discordapp.net/attachments/911696260472393768/920780944623947836/senorita2.png)](https://discord.com/api/oauth2/authorize?client_id=912469722522599444&permissions=2218094145&scope=bot)
-[SENORITA 3](https://media.discordapp.net/attachments/911696260472393768/920780944154198057/senorita3.png)](https://discord.com/api/oauth2/authorize?client_id=912511122081452103&permissions=2218093633&scope=bot)
-[SENORITA 4](https://media.discordapp.net/attachments/911696260472393768/920780944376479814/senorita4.png)](https://discord.com/api/oauth2/authorize?client_id=912528743162081342&permissions=2218093633&scope=bot)
+[SENORITA](https://media.discordapp.net/attachments/911696260472393768/920764549693583431/senorita1.png)](https://www.senoritamusic.top)
+[SENORITA 2](https://media.discordapp.net/attachments/911696260472393768/920780944623947836/senorita2.png)](https://www.senoritamusic.top)
+[SENORITA 3](https://media.discordapp.net/attachments/911696260472393768/920780944154198057/senorita3.png)](https://www.senoritamusic.top)
+[SENORITA 4](https://media.discordapp.net/attachments/911696260472393768/920780944376479814/senorita4.png)](https://www.senoritamusic.top)
 [SENORITA 5](https://media.discordapp.net/attachments/911696260472393768/920780943910895656/senorita5.png)]
 
 # Credits
