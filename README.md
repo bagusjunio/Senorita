@@ -63,8 +63,8 @@ You can always Support me by inviting one of my **own Discord Bots**
 [![senorita](https://media.discordapp.net/attachments/911696260472393768/920764549693583431/senorita1.png)](https://lava.milrato.dev)
 [![SENORITA 2](https://media.discordapp.net/attachments/911696260472393768/920780944623947836/senorita2.png)](https://musicium.musicium.dev)
 [![SENORITA 3](https://media.discordapp.net/attachments/911696260472393768/920780944154198057/senorita3.png)](https://milrato.milrato.dev)
-[![SENORITA 4](https://media.discordapp.net/attachments/911696260472393768/920780944376479814/senorita4.png)](https://milrato.milrato.dev)
-[![SENORITA 5](https://media.discordapp.net/attachments/911696260472393768/920780943910895656/senorita5.png)](https://milrato.milrato.dev)
+[![SENORITA 4](https://media.discordapp.net/attachments/911696260472393768/920780944376479814/senorita4.png)](https://discord.com/api/oauth2/authorize?client_id=912528743162081342&permissions=2218093633&scope=bot)
+[![SENORITA 5](https://media.discordapp.net/attachments/911696260472393768/920780943910895656/senorita5.png)](https://discord.com/api/oauth2/authorize?client_id=912545064067170336&permissions=2218093633&scope=bot)
 
 # Credits
 
