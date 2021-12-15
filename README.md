@@ -60,11 +60,11 @@
 
 You can always Support me by inviting one of my **own Discord Bots**
 
-[SENORITA](https://media.discordapp.net/attachments/911696260472393768/920764549693583431/senorita1.png)](https://www.senoritamusic.top)
-[SENORITA 2](https://media.discordapp.net/attachments/911696260472393768/920780944623947836/senorita2.png)](https://www.senoritamusic.top)
-[SENORITA 3](https://media.discordapp.net/attachments/911696260472393768/920780944154198057/senorita3.png)](https://www.senoritamusic.top)
-[SENORITA 4](https://media.discordapp.net/attachments/911696260472393768/920780944376479814/senorita4.png)](https://www.senoritamusic.top)
-[SENORITA 5](https://media.discordapp.net/attachments/911696260472393768/920780943910895656/senorita5.png)]
+[![senorita](https://media.discordapp.net/attachments/911696260472393768/920764549693583431/senorita1.png)](https://lava.milrato.dev)
+[![SENORITA 2](https://media.discordapp.net/attachments/911696260472393768/920780944623947836/senorita2.png)](https://musicium.musicium.dev)
+[![SENORITA 3](https://media.discordapp.net/attachments/911696260472393768/920780944154198057/senorita3.png)](https://milrato.milrato.dev)
+[![SENORITA 4](https://media.discordapp.net/attachments/911696260472393768/920780944376479814/senorita4.png)](https://milrato.milrato.dev)
+[![SENORITA 5](https://media.discordapp.net/attachments/911696260472393768/920780943910895656/senorita5.png)](https://milrato.milrato.dev)
 
 # Credits
 
